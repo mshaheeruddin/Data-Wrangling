@@ -1,0 +1,9 @@
+The dirty data CSV is attached. Its sales data. There are many errors within.Ã‚Â 
+
+Wrangle this file thoroughly using your template (add more functions to the template if needed). You will be marked on the analysis which you write after each concrete piece of code/functionality and your startegy for analyzing and catering for missing values.
+
+Don't forget descriptive and inferential stats and your analysis.
+
+Also, include some DWH analysis after cleaning, e.g., based on bar plots etc. This should be in python (not on PowerBI).
+
+Submit executed notebook (with outputs showing).
